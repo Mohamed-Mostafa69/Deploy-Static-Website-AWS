@@ -1,6 +1,8 @@
 
 # Project 1 - Deploy Static Website on AWS
 
+![img-1](1_EWckn2iZ4ATMeJEUcskgbQ.png)
+
 The cloud is perfect for hosting static websites that only include HTML, CSS, and JavaScript files that require no server-side processing. The whole project has two major intentions to implement:
 
 - Hosting a static website on S3 and
